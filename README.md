@@ -5,7 +5,7 @@ La arquitectura de microservicios es el enfoque del desarrollo de software en el
 FastAPI es el marco web moderno y rápido para crear API con Python 3.6+ basado en las sugerencias de tipo estándar de Python.
 
 * Autor: Neobytes
-* Project_URL: https://github.com/neobytes84/microservicios_flask
+* Project_URL: https://github.com/neobytes84/task_service_flask
 
 ## ¿Por qué usar FastAPI para microservicios?
   * Alto rendimiento
